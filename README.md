@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails Version is 7.0.8
 
-Things you may want to cover:
+You only need to run rails server, there where be a page to how to stylize bootstraps with your own css
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The content of the "_bootstrap_custom" file was taken from the the repo of the bootstrap gem which is this https://github.com/twbs/bootstrap-rubygem
